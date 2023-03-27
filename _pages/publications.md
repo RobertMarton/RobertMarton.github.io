@@ -9,7 +9,7 @@ PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sente
 Qiyu Wu, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Daxin Jiang. EMNLP 2022.
 
 [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/）
-
++ [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/)
 **Kai Zheng**, Qingfeng Sun, Yaming Yang, Fei Xu
 **EMNLP-2022**
 
