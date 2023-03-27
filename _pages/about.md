@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 **Bio**
 
 + Kai Zheng is currently a research scientist at Microsoft STCA (Software Technology Center at Asia). He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Bing Content AIGC.
