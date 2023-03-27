@@ -17,14 +17,4 @@ Qiyu Wu, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Daxin Jiang. EMNLP 2022. -
 [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515)
 
 Qingfeng Sun, Yujing Wang, Can Xu, **Kai Zheng**, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang. **ACL 2022.**
-<!-- 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
