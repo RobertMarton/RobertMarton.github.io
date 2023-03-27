@@ -7,7 +7,7 @@ author_profile: true
 
 [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/）
 
-**K Zheng**, Q Sun, Y Yang, F Xu
+**Kai Zheng**, Qingfeng Sun, Yaming Yang, Fei Xu
 **EMNLP-2022**
 
 [Multimodal dialogue response generation](https://arxiv.org/abs/2110.08515)
