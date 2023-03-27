@@ -38,7 +38,6 @@ Recent News
 **Working Experiences**
 ======
 
-+ looking for highly self-motivated students to work with me as research interns
 + ERNIE-team Baidu, GLUE@Top1
 + LTR-team Baidu, Core Search Ranking
 + Reco Ranking Modeling team Kuaishou, Core Recommendation Ranking,  Ship models including domestic products
