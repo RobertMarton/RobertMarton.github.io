@@ -32,8 +32,14 @@ Recent News
 **Hiring**
 + looking for highly self-motivated students to work with me as research interns
 
-**Hiring**
+**Working Experiences**
 + looking for highly self-motivated students to work with me as research interns
+
+**Academic Services**
+Program Committee for
++ ACL 
++ EMNLP 
++ KDD
 
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
