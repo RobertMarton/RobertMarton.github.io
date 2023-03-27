@@ -25,8 +25,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Recent News
 ======
-+ 1 paper about [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) accepted by EMNLP 2022!
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
++ 1 long paper about [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) accepted by EMNLP 2022!
++ 1 long paper about [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) accepted by ACL 2022!
+
 
 **Hiring**
 + looking for highly self-motivated students to work with me as research interns
