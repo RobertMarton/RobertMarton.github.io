@@ -40,7 +40,7 @@ Recent News
 
 + ERNIE-team Baidu, GLUE@Top1
 + LTR-team Baidu, Core Search Ranking
-+ Reco Ranking Modeling team Kuaishou, Core Recommendation Ranking,  Ship models including domestic products
++ Reco Ranking Modeling team Kuaishou, Core Recommendation Ranking,  Ship models on products [Kuaishou](https://apps.apple.com/us/app/%E5%BF%AB%E6%89%8B/id440948110)
 
 **Academic Services**
 ======
