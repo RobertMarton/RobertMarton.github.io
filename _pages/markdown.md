@@ -1,18 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Contact"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+# 
 
-* # Contact
+Microsoft STCA
 
-  Microsoft STCA
-  No.5 Danling St, Haidian District, Beijing,100080, China
-  Email: kazhe[at] pku.edu.cn zhengkai [at] microsoft.com
+No.5 Danling St, Haidian District, Beijing,100080, China
 
-  
+Email: kazhe[at] pku.edu.cn zhengkai [at] microsoft.com
+
