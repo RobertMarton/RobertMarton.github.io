@@ -11,7 +11,7 @@ redirect_from:
 **Bio**
 ======
 
-+ Kai Zheng is currently a research scientist at Microsoft STCA (Software Technology Center at Asia). He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Bing Content AIGC.
++ Kai Zheng is currently a research scientist at Microsoft STCA (Software Technology Center at Asia). He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Microsoft Content AIGC.
 + Kai Zheng has published papers in top-tier international conferences, such as ACL, EMNLP, KDD etc.
 + His research interests include large language model, multi-modal, natural language generation, dialogue systems, and information retrieval.
 + He received master’s degree (advisor was Houfeng Wang) in Institute of Computational Linguistics from Peking University.
