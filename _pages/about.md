@@ -41,31 +41,31 @@ Recent News
 **Publications**
 ======
 
-[Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]()
++ [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]()
 
-**Kai Zheng**,Qingfeng Sun, Yaming Yang, Tengchao Lv, Yeyong Pi, changlin zhao, Fei Xu, Qi Zhang. 
+  **Kai Zheng**,Qingfeng Sun, Yaming Yang, Tengchao Lv, Yeyong Pi, changlin zhao, Fei Xu, Qi Zhang. 
 
-ACL 2023 findings.
+  ACL 2023 findings.
 
-[Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277)
++ [Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277)
 
-Kunzhe Song, Qingfeng Sun, Can Xu, **Kai Zheng**, Yaming Yang
+  Kunzhe Song, Qingfeng Sun, Can Xu, **Kai Zheng**, Yaming Yang
 
-arXiv preprint arXiv:2304.13277
-
-
-[Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/)
-
-**Kai Zheng**, Qingfeng Sun, Yaming Yang, Fei Xu
-
-EMNLP-2022 findings.
+  arXiv preprint arXiv:2304.13277
 
 
-[Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515)
++ [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/)
 
-Qingfeng Sun, Yujing Wang, Can Xu, **Kai Zheng**, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang. 
+  **Kai Zheng**, Qingfeng Sun, Yaming Yang, Fei Xu
 
-ACL 2022.
+  EMNLP-2022 findings.
+
+
++ [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515)
+
+  Qingfeng Sun, Yujing Wang, Can Xu, **Kai Zheng**, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang. 
+
+  ACL 2022.
 
 
 
