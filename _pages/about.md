@@ -26,10 +26,31 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Recent News
 ======
-<!-- + 1 long paper about [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]() accepted by ACL 2023! -->
++ 1 long paper about [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]() accepted by ACL 2023!
 + 1 long paper about [Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277) arxiv!
 + 1 long paper about [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) accepted by EMNLP 2022!
 + 1 long paper about [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) accepted by ACL 2022!
+
+**Publications**
+======
+
+[Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]()
+
+**Kai Zheng**,Qingfeng Sun, Yaming Yang, Tengchao Lv, Yeyong Pi, changlin zhao, Fei Xu, Qi Zhang. **ACL 2023.**
+
+[Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277)
+
+Kunzhe Song, Qingfeng Sun, Can Xu, **Kai Zheng**, Yaming Yang
+
+[Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/)
+
+**Kai Zheng**, Qingfeng Sun, Yaming Yang, Fei Xu
+**EMNLP-2022**
+
+
+[Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515)
+
+Qingfeng Sun, Yujing Wang, Can Xu, **Kai Zheng**, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang. **ACL 2022.**
 
 
 **Hiring**
