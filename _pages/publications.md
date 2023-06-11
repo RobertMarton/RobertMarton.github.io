@@ -8,9 +8,9 @@ author_profile: true
 <!-- PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings
 Qiyu Wu, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Daxin Jiang. EMNLP 2022. -->
 
-<!-- [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]()
+[Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]()
 
-**Kai Zheng**,Qingfeng Sun, Yaming Yang, Tengchao Lv, Yeyong Pi, changlin zhao, Fei Xu, Qi Zhang. **ACL 2023.** -->
+**Kai Zheng**,Qingfeng Sun, Yaming Yang, Tengchao Lv, Yeyong Pi, changlin zhao, Fei Xu, Qi Zhang. **ACL 2023.**
 
 [Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277)
 
