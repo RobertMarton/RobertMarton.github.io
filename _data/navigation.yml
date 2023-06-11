@@ -10,7 +10,7 @@ main:
 #     url: /portfolio/
     
   - title: "Contact"
-    url: /markdown/ 
+    url: /contact/ 
     
 #   - title: "Blog Posts"
 #     url: /year-archive/
