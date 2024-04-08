@@ -27,7 +27,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Recent News
 ======
 + 1 paper accepted by ICLR 2024!
-+ [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Project link: https://github.com/nlpxucan/WizardLM
++ [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Project link: [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
 + 1 long paper about [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners](https://aclanthology.org/2023.findings-acl.852/) accepted by ACL 2023!
 + 1 long paper about [Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277) arxiv!
 + 1 long paper about [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) accepted by EMNLP 2022!
