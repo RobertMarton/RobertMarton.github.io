@@ -11,9 +11,9 @@ redirect_from:
 **Bio**
 ======
 
-+ Kai Zheng is currently a research scientist at Microsoft STCA (Software Technology Center at Asia). He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Microsoft Content AIGC.
-+ Kai Zheng has published papers in top-tier international conferences, such as ACL, EMNLP, KDD etc.
-+ His research interests include large language model, multi-modal, natural language generation, dialogue systems, and information retrieval.
++ Kai Zheng is currently a research scientist at Microsoft STCA (Software Technology Center at Asia). He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Microsoft Copilot.
++ Kai Zheng has published papers in top-tier international conferences, such as ICLR, ACL, EMNLP, KDD etc.
++ His research interests include large language model, reinforcement learning, multi-modal llm, dialogue systems, and information retrieval.
 + He received master’s degree (advisor was Houfeng Wang) in Institute of Computational Linguistics from Peking University.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
@@ -26,7 +26,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Recent News
 ======
-+ 1 long paper about [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]() accepted by ACL 2023!
++ 1 paper accepted by ICLR 2024!
++ [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Project link: https://github.com/nlpxucan/WizardLM
++ 1 long paper about [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners](https://aclanthology.org/2023.findings-acl.852/) accepted by ACL 2023!
 + 1 long paper about [Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277) arxiv!
 + 1 long paper about [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) accepted by EMNLP 2022!
 + 1 long paper about [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) accepted by ACL 2022!
@@ -41,7 +43,15 @@ Recent News
 **Publications**
 ======
 
-+ [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners]()
+***\**: Equal contribution**
+
++ [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
+
+  Can Xu*, Qingfeng Sun*, **Kai Zheng\***, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang
+
+  ICLR 2024.
+  
++ [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners](https://aclanthology.org/2023.findings-acl.852/)
 
   **Kai Zheng**,Qingfeng Sun, Yaming Yang, Tengchao Lv, Yeyong Pi, changlin zhao, Fei Xu, Qi Zhang. 
 
