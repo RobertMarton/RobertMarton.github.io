@@ -43,13 +43,12 @@ Recent News
 **Publications**
 ======
 
-*: **Equal contribution**
+### &ensp;&ensp;&ensp; <b><sup> *</sup></b>: Equal contribution
 
-+ [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
 
-  Can Xu*, Qingfeng Sun*, **Kai Zheng***, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang
-
-  ICLR 2024.
++ [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244) <br> 
+  Can Xu<b><sup>*</sup></b>, Qingfeng Sun<b><sup>*</sup></b>, <b>Kai Zheng<sup>*</sup></b>, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang <br> 
+  ICLR 2024
   
 + [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners](https://aclanthology.org/2023.findings-acl.852/)
 
