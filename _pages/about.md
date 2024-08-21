@@ -11,10 +11,10 @@ redirect_from:
 **Bio**
 ======
 
-+ Kai Zheng is currently a research scientist at Microsoft STCA (Software Technology Center at Asia). He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Microsoft Copilot.
++ Kai Zheng is currently a research scientist at Microsoft AI. He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Microsoft Copilot.
 + Kai Zheng has published papers in top-tier international conferences, such as ICLR, ACL, EMNLP, KDD etc.
 + His research interests include large language model, reinforcement learning, multi-modal llm, dialogue systems, and information retrieval.
-+ He received master’s degree (advisor was Houfeng Wang) in Institute of Computational Linguistics from Peking University.
++ He received master’s degree (advisor was [Houfeng Wang](https://cs.pku.edu.cn/info/1237/2088.htm)) in Institute of Computational Linguistics from Peking University.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
@@ -26,8 +26,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Recent News
 ======
++ [2024.04] Release [WizardLM-2](https://huggingface.co/posts/WizardLM/329547800484476), which outperforms GPT-4 on MT-Bench, GPT4-Turbo on AlpacaEval 2.0 and Claude 3 Sonnet on Arena-Hard.
++ [2023.06] WizardLM achieves the 1st-rank of the opensource models on [Standford AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/).
++ [2023.04] Release [WizardLM](https://arxiv.org/abs/2304.12244) expertized in following complex instructions. [[Github]](https://github.com/nlpxucan/WizardLM) (Over 9K Stars) [[WizardLM Pages]](https://wizardlm.github.io/) [[Huggingface]](https://huggingface.co/WizardLM) [[Beeboom: 12 Best LLMs in 2024]](https://beebom.com/best-large-language-models-llms/) [[华尔街见闻]](https://wallstreetcn.com/charts/41954476)
 + 1 long paper accepted by ICLR 2024!
-+ [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Project link: [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
 + 1 long paper about [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners](https://aclanthology.org/2023.findings-acl.852/) accepted by ACL 2023!
 + 1 long paper about [Self-Supervised Multi-Modal Sequential Recommendation](https://arxiv.org/abs/2304.13277) arxiv!
 + 1 long paper about [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) accepted by EMNLP 2022!
