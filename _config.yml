@@ -83,11 +83,11 @@ author:
   name             : "Kai Zheng"
   avatar           : "profile.png"
   bio              : "Institute of Computational Linguistics @PKU Research Scientist @Microsoft"
-  location         : "Beijing"
+  location         : "Seattle"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dxjqLjsAAAAJ&hl=en"
-  email            :
+  email            : "zhengkai@microsoft.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
