@@ -91,8 +91,10 @@ Recent News
 
 
 Program Committee for
++ NeurIPS 2024
++ NAACL 2024
++ EMNLP 2022，2023, 2024
 + ACL 2022， 2023
-+ EMNLP 2022，2023
 + KDD 2022， 2023
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GqAY9MlrJUnTDg03McUlFXMe87LiMVGS5doE09u6-AY&cl=ffffff&w=a"></script>
