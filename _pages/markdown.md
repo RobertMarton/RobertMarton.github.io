@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-+ Microsoft STCA
-+ No.5 Danling St, Haidian District, Beijing,100080, China
-+ Email: kazhe[at] pku.edu.cn zhengkai [at] microsoft.com
++ Microsoft AI
++ Email: zhengkai [at] microsoft.com
 
