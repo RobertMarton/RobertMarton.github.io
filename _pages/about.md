@@ -12,7 +12,7 @@ redirect_from:
 ======
 
 + Kai Zheng is currently a research scientist at Microsoft AI. He contribute core deep models for Microsoft XiaoIce (微软小冰), Bing Search Ranking and Microsoft Copilot.
-+ Creator of [WizardLM](https://arxiv.org/abs/2304.12244), which contributed the state-of-the-art LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct).
++ Creator of [WizardLM](https://github.com/nlpxucan/WizardLM), which contributed the state-of-the-art LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct).
 + Kai Zheng has published papers in top-tier international conferences, such as ICLR, ACL, EMNLP, KDD etc.
 + His research interests include large language model, reinforcement learning, multi-modal llm, dialogue systems, and information retrieval.
 + He received master’s degree (advisor was [Houfeng Wang (王厚峰)](https://cs.pku.edu.cn/info/1237/2088.htm)) in Institute of Computational Linguistics from Peking University.
