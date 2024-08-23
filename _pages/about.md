@@ -94,6 +94,7 @@ Recent News
 
 
 Program Committee for
++ ICLR 2025
 + NeurIPS 2024
 + NAACL 2024
 + EMNLP 2022，2023，2024
