@@ -14,7 +14,7 @@ redirect_from:
 
 # Biography
 
-* I am a Senior Researcher at Tencent Hunyuan. My research focuses on **CUA/Code/DeepResearch and long horizon agentic models**, **reinforcement learning**, and **synthetic data**.
+* I am a Senior Researcher at Tencent Hunyuan. My research focuses on **CUA/Code/Search and long horizon agentic models**, **reinforcement learning**, and **synthetic data**.
 <!-- My research focuses on **CUA, code, DeepResearch, and long-horizon agentic models**, **reinforcement learning**, and **synthetic data**. -->
 <!-- , and **multimodal reasoning**. **large language models**, **multimodal reasoning**. -->
 * Previously, I was a Research Scientist at Microsoft AI, where I contributed core deep models for Microsoft XiaoIce, Bing Search Ranking, and Microsoft Copilot.
