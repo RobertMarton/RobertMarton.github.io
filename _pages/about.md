@@ -17,8 +17,8 @@ redirect_from:
 * I am a Senior Researcher at Tencent Hunyuan. My research focuses on **CUA/Code/Search and long horizon agentic models**, **reinforcement learning**, and **synthetic data**.
 <!-- My research focuses on **CUA, code, DeepResearch, and long-horizon agentic models**, **reinforcement learning**, and **synthetic data**. -->
 <!-- , and **multimodal reasoning**. **large language models**, **multimodal reasoning**. -->
-* Previously, I was a Research Scientist at Microsoft AI, where I contributed core deep models for Microsoft XiaoIce, Bing Search Ranking, and Microsoft Copilot.
-* I created [WizardLM](https://github.com/nlpxucan/WizardLM), which contributed the state-of-the-art LLM family **WizardLM**, **WizardCoder**, and **WizardMath**. I also created the widely adopted [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct) method.
+<!-- * Previously, I was a Research Scientist at Microsoft AI, where I contributed core deep models for Microsoft XiaoIce, Bing Search Ranking, and Microsoft Copilot. -->
+* Previously, I created [WizardLM](https://github.com/nlpxucan/WizardLM) in Microsoft, which contributed the state-of-the-art LLM family **WizardLM**, **WizardCoder**, and **WizardMath**. I also created the widely adopted [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct) method.
 * I received my M.S. degree from the Institute of Computational Linguistics at [Peking University](https://english.pku.edu.cn/), advised by [Houfeng Wang](https://cs.pku.edu.cn/info/1237/2088.htm).
 * We are hiring research interns. If you have strong experience in LLMs, RL, agents and are excited to work with Hunyuan, feel free to contact me.
 
